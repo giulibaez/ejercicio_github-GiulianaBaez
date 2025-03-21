@@ -3,3 +3,6 @@
 2. NPC: se dice que mas alla del bosque hay un gran tesoro...
 
 3. NPC: ¿quieres que te muestre el camino?
+
+[dialogoNPC-NO]
+
