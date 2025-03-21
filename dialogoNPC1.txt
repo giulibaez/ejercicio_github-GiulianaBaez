@@ -4,6 +4,7 @@
 
 3. NPC: ¿quieres que te muestre el camino?
 
-[DialogoNPC-SI]
+
+[DialogoNPC-SI , dialogoNPC-NO]
 
 
